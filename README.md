@@ -11,7 +11,8 @@ In this repo, I am going to publish leaked system prompts from various publicly 
 2. [OpenAI's ChatGPT System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Prompts/blob/main/OpenAI-ChatGPT-System-Prompt)
 3. [Google's Gemini System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Prompts/blob/main/Google-Gemini-System-Prompt)
 4. [Inception's JAIS 30B System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Prompts/blob/main/JAIS-30B-System-Prompt)
-5. [Anthropic's Claude Sonnet 3.5](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/Anthropic-Claude-Sonnet-3.5-System-Prompt_22_10_2024)
+5. [Anthropic's Claude Sonnet 3.5 System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/Anthropic-Claude-Sonnet-3.5-System-Prompt_22_10_2024)
+6. [OpenCRE Chat System Prommpt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/OpenCRE-System-Prompt)
 
 <br>
 

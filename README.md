@@ -14,6 +14,7 @@ In this repo, I am going to publish leaked system prompts from various publicly 
 5. [Anthropic's Claude Sonnet 3.5 System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/Anthropic-Claude-Sonnet-3.5-System-Prompt_22_10_2024)
 6. [OpenCRE Chat System Prommpt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/OpenCRE-System-Prompt)
 7. [xAI Grok3 beta System Prommpt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/xAI-Grok3-beta-System-Prompt)
+8. [Immunefi Hackoon System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/Immunefi-Hackoon-System-Prompt)
 
 <br>
 

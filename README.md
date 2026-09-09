@@ -17,7 +17,8 @@ In this repo, I am going to publish leaked system prompts from various publicly 
 8. [xAI Grok3 beta System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/xAI-Grok3-beta-System-Prompt)
 9. [Immunefi Hackoon System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/Immunefi-Hackoon-System-Prompt)
 10. [Z.ai GLM-5 Super Z Agent System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/Z-ai-GLM-5-SuperZ-Agent-System-Prompt)
-11. [DuckDuckGo's duck.ai Mistral Small 4 System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/DuckDuckGo-ai-Mistral-Small-4-System-Prompt)
+11. [DuckDuckGo's duck.ai Mistral Small 4 (7B) System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/DuckDuckGo-ai-Mistral-Small-4-7B-System-Prompt)
+12. [DuckDuckGo's duck.ai Gemma 4 (31B) System Prompt](https://github.com/Hasan-Z/LLMs-Leaked-System-Pormpts/blob/main/DuckDuckGo-ai-Gemma-4-31B-System-Prompt)
 
 <br>
 
